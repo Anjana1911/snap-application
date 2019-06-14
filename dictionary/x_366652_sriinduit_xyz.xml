@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="xyz" max_length="40" name="x_366652_sriinduit_xyz" type="collection">
+        <element label="ab" max_length="80" name="ab" type="string"/>
+        <element choice="1" label="App" max_length="40" name="app" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="ab"/>
+            </choice>
+        </element>
+    </element>
+</database>

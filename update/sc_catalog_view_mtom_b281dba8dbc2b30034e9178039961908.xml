@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_catalog_view_mtom">
+    <sc_catalog_view_mtom action="INSERT_OR_UPDATE">
+        <default>true</default>
+        <sc_catalog display_value="induit service catalog">f221d7a8dbc2b30034e9178039961922</sc_catalog>
+        <sys_class_name>sc_catalog_view_mtom</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-12 05:25:21</sys_created_on>
+        <sys_id>b281dba8dbc2b30034e9178039961908</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>induit service catalog.catalog_induit_service_catalog</sys_name>
+        <sys_package display_value="sriinduit" source="x_366652_sriinduit">f7cb39dcdb82730034e9178039961957</sys_package>
+        <sys_policy/>
+        <sys_portal_page display_value="catalog_induit_service_catalog">b281dba8dbc2b30034e9178039961907</sys_portal_page>
+        <sys_scope display_value="sriinduit">f7cb39dcdb82730034e9178039961957</sys_scope>
+        <sys_update_name>sc_catalog_view_mtom_b281dba8dbc2b30034e9178039961908</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-12 05:25:21</sys_updated_on>
+    </sc_catalog_view_mtom>
+</record_update>

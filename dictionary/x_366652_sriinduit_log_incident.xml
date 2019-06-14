@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="log incident" max_length="40" name="x_366652_sriinduit_log_incident" sizeclass="7" type="collection">
+        <element label="affected  user" max_length="32" name="affected_user" reference="sys_user" reference_qual="active=true^EQ" reference_qual_condition="active=true^EQ" type="reference"/>
+        <element choice="1" label="ctype" max_length="40" name="ctype" type="choice">
+            <choice/>
+        </element>
+        <element choice="1" label="Ctype2" max_length="40" name="ctype2" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="email" value="email"/>
+            </choice>
+        </element>
+        <element label="requestdate" max_length="40" name="request_date" type="glide_date_time"/>
+        <element label="returndate" max_length="40" name="return_date" type="glide_date_time"/>
+        <element default="default" label="sriindu Des" max_length="100" name="sriindu_des" type="string"/>
+        <element default="test default" label="sriindu short des" max_length="100" name="sriindu_short_des" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="start date" max_length="40" name="u_glide_date_1" type="glide_date"/>
+    </element>
+</database>

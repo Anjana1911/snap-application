@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="apple" max_length="40" name="x_366652_sriinduit_apple" type="collection">
+        <element label="banana" max_length="40" name="banana" type="string"/>
+        <element choice="1" label="orange" max_length="40" name="orange" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="ban" value="ban"/>
+            </choice>
+        </element>
+        <element label="w" max_length="100" name="w" type="string"/>
+        <element label="x" max_length="32" name="x" reference="sys_user" type="reference"/>
+        <element choice="1" label="y" max_length="100" name="y" type="journal">
+            <choice>
+                <element inactive_on_update="false" label="z" value="z"/>
+            </choice>
+        </element>
+    </element>
+</database>
