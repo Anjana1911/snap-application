@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_template">
+    <sys_template action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <global>false</global>
+        <group/>
+        <link_element/>
+        <name>TEMPLATE2</name>
+        <next/>
+        <next_child/>
+        <roles/>
+        <short_description>wxyz</short_description>
+        <show_on_template_bar>true</show_on_template_bar>
+        <stand_alone>false</stand_alone>
+        <sys_class_name>sys_template</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-15 06:10:05</sys_created_on>
+        <sys_id>cae77269db4e330034e91780399619e6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>TEMPLATE2</sys_name>
+        <sys_package display_value="sriinduit" source="x_366652_sriinduit">f7cb39dcdb82730034e9178039961957</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="sriinduit">f7cb39dcdb82730034e9178039961957</sys_scope>
+        <sys_update_name>sys_template_cae77269db4e330034e91780399619e6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-15 06:10:05</sys_updated_on>
+        <table>x_366652_sriinduit_log_incident</table>
+        <template/>
+        <user display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</user>
+        <view/>
+    </sys_template>
+</record_update>
